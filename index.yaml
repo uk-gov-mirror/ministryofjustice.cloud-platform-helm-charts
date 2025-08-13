@@ -340,7 +340,7 @@ entries:
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
-      repository: https://charts.bitnami.com/bitnami
+      repository: https://charts.bitnamilegacy.com/bitnami
       version: 9.1.1
     description: A Helm chart for Kubernetes
     digest: 8ec00dbd9a2a3b8572c179fd90ccf54c8f36ec9d7160237d4fd69ab08ecedd1e
@@ -354,7 +354,7 @@ entries:
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
-      repository: https://charts.bitnami.com/bitnami
+      repository: https://charts.bitnamilegacy.com/bitnami
       version: 9.1.1
     description: A Helm chart for Kubernetes
     digest: ac1b515c5ce0683c04f7c7179a54d4b2f3b48061a20105160bdc08aab0f8dd61
@@ -368,7 +368,7 @@ entries:
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
-      repository: https://charts.bitnami.com/bitnami
+      repository: https://charts.bitnamilegacy.com/bitnami
       version: 9.1.1
     description: A Helm chart for Kubernetes
     digest: 3a08107a025d4157c8325b17426713b4e04f6235514b86c38b6870a2a85e5fbf
@@ -382,7 +382,7 @@ entries:
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
-      repository: https://charts.bitnami.com/bitnami
+      repository: https://charts.bitnamilegacy.com/bitnami
       version: 9.1.1
     description: A Helm chart for Kubernetes
     digest: 9b062ff5cbef8f19eafdc32a590a07e496bbda87b6a4624fdccccc92e78ea0c7
@@ -396,7 +396,7 @@ entries:
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
-      repository: https://charts.bitnami.com/bitnami
+      repository: https://charts.bitnamilegacy.com/bitnami
       version: 9.1.1
     description: A Helm chart for Kubernetes
     digest: 97f686216a6f357d929d56b61f805c3dc2506a113be6c3c9b2f71bd8840894a8
@@ -410,7 +410,7 @@ entries:
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
-      repository: https://charts.bitnami.com/bitnami
+      repository: https://charts.bitnamilegacy.com/bitnami
       version: 9.1.1
     description: A Helm chart for Kubernetes
     digest: 28540228c9bfc93115a59cf843431f8d068517f5bcf006c53e30f69d6916615e
@@ -424,7 +424,7 @@ entries:
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
-      repository: https://charts.bitnami.com/bitnami
+      repository: https://charts.bitnamilegacy.com/bitnami
       version: 9.1.1
     description: A Helm chart for Kubernetes
     digest: 6544ada23bb719c662bd7a7d3f22ceb004008728b310e94e99d01bcccde49233
